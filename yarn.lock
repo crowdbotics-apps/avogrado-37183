@@ -1236,6 +1236,9 @@
 "@screens/appointment-calendar@file:./screens/appointment-calendar":
   version "1.0.0"
 
+"@screens/search-listing@file:./screens/search-listing":
+  version "1.0.0"
+
 "@screens/search-listing@file:./screens/search-listing/":
   version "1.0.0"
 
