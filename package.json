@@ -19,7 +19,6 @@
     "@screens/advance-search": "file:./screens/advance-search/",
     "@screens/appointment-calendar": "file:./screens/appointment-calendar/",
     "@screens/invite-friends": "file:./screens/invite-friends/",
-    "@screens/search-listing": "file:./screens/search-listing/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-dom": "^18.2.0",
