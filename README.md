@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-appointment-calendar](screens/appointment-calendar)
 - [screen-search-listing](screens/search-listing)
 - [screen-advance-search](screens/advance-search)
+- [screen-invite-friends](screens/invite-friends)
 
 # Getting started: Frontend
 
